@@ -295,5 +295,7 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 eliteappgrade.com, 494223, RESELLER
 iion.io, 10162, RESELLER
 orangeclickmedia.com, c-1181, RESELLER
+zmaticoo.com, 5135063, RESELLER
+bidmachine.io, 113, RESELLER
 ownerdomain=kinklade11.github.io
 
